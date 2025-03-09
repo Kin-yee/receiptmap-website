@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://xpensemap.com/sitemap.xml
+
+# Disallow certain files
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /.gitignore 

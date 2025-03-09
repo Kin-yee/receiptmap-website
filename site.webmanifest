@@ -1,6 +1,8 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Xpensemap - AI Receipt & Invoice Scanner",
+    "short_name": "Xpensemap",
+    "description": "Scan and organize receipts and invoices with AI",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +15,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#6042F5",
     "background_color": "#ffffff",
     "display": "standalone"
 }
